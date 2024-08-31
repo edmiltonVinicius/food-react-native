@@ -1,0 +1,8 @@
+# @format
+
+{
+  'arrowParens': 'always',
+  'bracketSameLine': false,
+  'singleQuote': true,
+  'insertPragma': true,
+}
