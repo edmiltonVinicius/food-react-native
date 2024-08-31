@@ -1,7 +1,9 @@
-import { Slot } from "expo-router";
+/** @format */
 
-import '../styles/global.css'
+import { Slot } from 'expo-router';
+
+import '../styles/global.css';
 
 export default function RootLayout() {
-  return <Slot />
+  return <Slot />;
 }
