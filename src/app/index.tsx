@@ -1,5 +1,3 @@
-/** @format */
-
 import { ScrollView, View } from 'react-native';
 import { Header } from '../components/header';
 

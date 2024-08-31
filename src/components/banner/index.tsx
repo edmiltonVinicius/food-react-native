@@ -1,5 +1,3 @@
-/** @format */
-
 import { View, Pressable, Image } from 'react-native';
 import PagerView from 'react-native-pager-view';
 

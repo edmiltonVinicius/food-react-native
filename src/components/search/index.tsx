@@ -1,5 +1,3 @@
-/** @format */
-
 import { View, TextInput } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 

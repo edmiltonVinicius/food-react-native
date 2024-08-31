@@ -1,8 +1,3 @@
 {
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.codeActionsOnSave": {
-    "source.addMissingImports.ts": "always",
-    "source.fixAll.ts": "always"
-  }
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

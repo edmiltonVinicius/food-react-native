@@ -1,8 +1,7 @@
-# @format
-
 {
-  'arrowParens': 'always',
-  'bracketSameLine': false,
-  'singleQuote': true,
-  'insertPragma': true,
+    "arrowParens": "always",
+    "bracketSameLine": false,
+    "insertPragma": true,
+    "jsxSingleQuote": true,
+    "singleAttributePerLine": true
 }
